@@ -2,13 +2,13 @@
 
 ## **Module 0: Project Setup & Prerequisites**
 
-### **0.1 Understanding FastAPI & Use Cases**
+### **[0.1 Understanding FastAPI & Use Cases](./00_Project_Setup_&_Prerequisites/0.1_Understanding_FastAPI_Use_Cases.md)**
 
 - What is FastAPI?
 - How FastAPI compares to Flask & Django
 - FastAPI use cases & real-world examples
 
-### **0.2 Setting Up Development Environment**
+### **[0.2 Setting Up Development Environment](./00_Project_Setup_&_Prerequisites/0.2_Setting_Up_Development_Environment.md)**
 
 - **Installing Python (Windows/Linux/macOS)**
 - **Setting up Virtual Environment (venv)**
@@ -16,7 +16,7 @@
 - Windows: `python -m venv fastapi_env`
 - Linux/macOS: `python3 -m venv fastapi_env`
 
-### **0.3 Installing FastAPI & Uvicorn**
+### **[0.3 Installing FastAPI & Uvicorn](./00_Project_Setup_&_Prerequisites/0.3_Installing_FastAPI_Uvicorn.md)**
 
 - `pip install fastapi uvicorn`
 - Running a basic FastAPI application
@@ -27,7 +27,7 @@
 - VS Code / PyCharm Setup
 - Debugging Extensions
 
-#### **Mini Task:**
+#### **[Mini Task:](./00_Project_Setup_&_Prerequisites/Task/README.md)**
 
 - **Create a FastAPI project and run a simple API**
 
