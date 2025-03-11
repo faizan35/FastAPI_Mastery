@@ -49,32 +49,29 @@
 
 - **Create a FastAPI project and run a simple API**
 
----
-
 ## **Module 1: FastAPI Basics - Building REST APIs**
 
-### **1.1 FastAPI Core Concepts**
+### **[1.1 FastAPI Core Concepts](./01_FastAPI_Basics/1.1_FastAPI_core_Concepts.md)**
 
 - Request & Response Cycle
 - Path Operations (`@app.get()`, `@app.post()`, `@app.put()`, `@app.delete()`)
 - Query Parameters, Path Parameters
 
-### **1.2 Data Handling with Pydantic**
+### **[1.2 Data Handling with Pydantic](./01_FastAPI_Basics/1.2_Data_Handling_with_Pydantic.md)**
 
 - Using **Pydantic Models** for request validation
 - Response models & Field validation
 - Using `Optional[]` for optional fields
 
-### **1.3 Handling Request Body & Form Data**
+### **[1.3 Handling Request Body & Form Data](./01_FastAPI_Basics/1.3_Handling_Request_Body_Form_Data.md)**
 
 - Sending JSON data in requests
 - Form data & File uploads
 
-#### **Mini Project:**
+#### **[Mini Project:](./01_FastAPI_Basics/Task/README.md)**
 
-- **Simple To-Do API** (Basic CRUD operations)
-
----
+1. **Simple To-Do API** (Basic CRUD operations)
+2. **Form that has single file upload and multiple file upload features.**
 
 ## **Module 2: Working with Databases (SQL & NoSQL)**
 
