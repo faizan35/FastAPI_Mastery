@@ -24,11 +24,6 @@
 - **Gunicorn vs Uvicorn: When & Why to Use Each**
 - **Alternative ASGI Servers & Deployment Considerations**
 
-### **[0.3 Installing FastAPI & Uvicorn](./00_Project_Setup_&_Prerequisites/0.3_Installing_FastAPI_Uvicorn.md)**
-
-- `pip install fastapi uvicorn`
-- Running a basic FastAPI application
-
 ### **[0.4 Installing FastAPI with Uvicorn (default) & Uvicorn + Gunicorn (combined)](./00_Project_Setup_&_Prerequisites/0.4_Installing_FastAPI.md)**
 
 - **Installing FastAPI & Web Servers (Uvicorn and Gunicorn)**
